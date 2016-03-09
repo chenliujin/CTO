@@ -1,8 +1,8 @@
-<h2>redis</h2>
+<h2>redis KEY 设计</h2>
+<p>以 {$group_id} 作为 KEY 的前缀，这样，不同活动的 KEY 不会发生冲突。</p>
 
 <ul>
-	<li>活动流水号：$group_id</li>
+	<li>{$group_id}_draw_prize：奖品</li>
+	<li>{$group_id}_winner_list：中奖名单</li>
+	<li>{$group_id}_draw_customers_{$customer_id}：用户的抽奖记录</li>
 </ul>
-
-<h3>奖品</h3>
-<p>draw_prize_{$group_id}</p>
