@@ -9,3 +9,4 @@
 * [Building RESTful API in Laravel](http://maxoffsky.com/code-blog/building-restful-api-in-laravel-start-here/)
 * [基于laravel制作APP接口（API）](http://www.jb51.net/article/80942.htm)
 * [讲讲我最近用 Laravel 做的一个 App 后端项目](https://phphub.org/topics/610)
+* [Doing HTTP requests FROM Laravel to an external API](http://stackoverflow.com/questions/22355828/doing-http-requests-from-laravel-to-an-external-api)
