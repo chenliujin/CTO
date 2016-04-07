@@ -1,3 +1,4 @@
 * [bluesky blog](http://hadoop1989.com/)
 * [作业提交、执行流程-Standalone模式-Spark源码分析02](http://hadoop1989.com/2016/02/01/Spark-Core_Analysis-02/)
 * [36大数据](http://www.36dsj.com/)
+* [关注大规模数据处理](http://dongxicheng.org/)
