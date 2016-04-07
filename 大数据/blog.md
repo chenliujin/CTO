@@ -3,3 +3,4 @@
 * [36大数据](http://www.36dsj.com/)
 * [关注大规模数据处理](http://dongxicheng.org/)
 * [大数据工程师技能图谱](http://www.36dsj.com/archives/45204)
+* [CDH5.3.2中配置运行Spark SQL的Thrift Server](http://www.ithao123.cn/content-8658565.html)
