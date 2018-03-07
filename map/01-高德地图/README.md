@@ -2,6 +2,7 @@
 
 
 # [点标注](http://lbs.amap.com/api/javascript-api/guide/draw-on-map/marker-point)
+- extData: 可以保存当前点的其它数据，如转换成json后存入
 
 ## 点聚合
 context 有三个属性：count/marker/markers，count是markers的总个数，marker为聚合后的点，markers（数组）是聚合前的所有点；
