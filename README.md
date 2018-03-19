@@ -7,3 +7,4 @@
 - haproxy
 - keep alived
 - squid
+- varnish
