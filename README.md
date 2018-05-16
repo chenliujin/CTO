@@ -58,3 +58,17 @@
 - squid: 反向代理
 - varnish
 - DNS: Bind
+
+# 开发和测试工具
+
+| 名称 | 提供商/国别 |
+| --- | --- |
+| Atom | GitHub |
+| Selenium | thoughtworks |
+| Docker | Docker,Inc. |
+| GitLab | GitLab Inc. |
+| Appium | United States of America |
+| Visual Studio Code | Microsoft |
+| PlantUML | United States of America |
+| Balsamiq Mockups | Balsamiq Studios |
+
