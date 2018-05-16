@@ -1,12 +1,6 @@
 # Docker
-- 私有镜像仓库
-- image
- - nginx-php-fpm
- - redis
- - mosquitto
- - mysql
- - nodejs
- - go
+- 私有镜像仓库（registry）
+- Dockerfile
 
 ---
 
@@ -19,12 +13,15 @@
 
 ---
 
-# 服务器架构设计(腾讯云)
+# 架构设计(腾讯云)
 
-- 网络架构设计
- - 组网：公网网关 + 内网 共享上网
+## 网络架构
+ - 组网：公网网关(100M) + 内网 共享上网
 
-# MySQL
+## MySQL
+- 主从同步
+
+## Redis
 - 主从同步
 
 ---
@@ -40,7 +37,16 @@
 - 从库切换为主库
 
 ## redis 迁移
+- 主从同步
 
+---
+
+# 运维
+
+## ansible
+- playbook
+
+---
 
 
 
