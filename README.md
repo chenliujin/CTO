@@ -59,6 +59,7 @@
 搭建MYSQL高可用主主负载集群，keepalived+haproxy+mysql
 
 # TODO
+- 分布式文件系统
 - TCP/IP 协议
 - 分布式事务
 - lvs: dr 模式
