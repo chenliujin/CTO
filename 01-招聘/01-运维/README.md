@@ -16,6 +16,7 @@
 
 
 ## 任职资格
+1. 对虚拟化有一定研究如：kvm、OpenStack、docker
 1. 一年以上 Linux 系统运维经验；
 1. 熟悉 shell、python，能熟练编写运维自动化工具；
 1. 精通 Tomcat、Nginx 等常用服务器软件的配置、优化；
