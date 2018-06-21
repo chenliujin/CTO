@@ -70,6 +70,7 @@
 - squid: 反向代理
 - varnish
 - DNS: Bind
+- NFS: Network File System
 
 # 开发和测试工具
 
